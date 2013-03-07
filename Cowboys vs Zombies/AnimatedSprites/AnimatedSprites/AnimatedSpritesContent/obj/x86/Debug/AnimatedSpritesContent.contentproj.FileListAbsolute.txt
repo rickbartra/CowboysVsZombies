@@ -1,0 +1,2 @@
+C:\Users\deeplab\Desktop\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
